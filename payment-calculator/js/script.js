@@ -108,7 +108,7 @@ function calc(event){
     let monthly_int = (amount + total_int) / (time)
     console.log(monthly_int);
     let output = document.getElementById('output');
-    output.innerHTML = monthly_int;
+    output.innerHTML = monthly_int.toFixed(2);
 
 }
 
