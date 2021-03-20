@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/React-Deploy/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/React-Deploy/static/js/main.cef031b3.chunk.js",
-    "main.js.map": "/React-Deploy/static/js/main.cef031b3.chunk.js.map",
-    "runtime-main.js": "/React-Deploy/static/js/runtime-main.75c15a17.js",
-    "runtime-main.js.map": "/React-Deploy/static/js/runtime-main.75c15a17.js.map",
-    "static/css/2.150d169a.chunk.css": "/React-Deploy/static/css/2.150d169a.chunk.css",
-    "static/js/2.69b60240.chunk.js": "/React-Deploy/static/js/2.69b60240.chunk.js",
-    "static/js/2.69b60240.chunk.js.map": "/React-Deploy/static/js/2.69b60240.chunk.js.map",
-    "static/js/3.4780447a.chunk.js": "/React-Deploy/static/js/3.4780447a.chunk.js",
-    "static/js/3.4780447a.chunk.js.map": "/React-Deploy/static/js/3.4780447a.chunk.js.map",
-    "index.html": "/React-Deploy/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/React-Deploy/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/React-Deploy/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.69b60240.chunk.js.LICENSE.txt": "/React-Deploy/static/js/2.69b60240.chunk.js.LICENSE.txt"
+    "main.css": "/suza-subedi/money.git/static/css/main.8ccc84b7.chunk.css",
+    "main.js": "/suza-subedi/money.git/static/js/main.ae66dabb.chunk.js",
+    "main.js.map": "/suza-subedi/money.git/static/js/main.ae66dabb.chunk.js.map",
+    "runtime-main.js": "/suza-subedi/money.git/static/js/runtime-main.aed53396.js",
+    "runtime-main.js.map": "/suza-subedi/money.git/static/js/runtime-main.aed53396.js.map",
+    "static/css/2.150d169a.chunk.css": "/suza-subedi/money.git/static/css/2.150d169a.chunk.css",
+    "static/js/2.829cb1cd.chunk.js": "/suza-subedi/money.git/static/js/2.829cb1cd.chunk.js",
+    "static/js/2.829cb1cd.chunk.js.map": "/suza-subedi/money.git/static/js/2.829cb1cd.chunk.js.map",
+    "static/js/3.ff208842.chunk.js": "/suza-subedi/money.git/static/js/3.ff208842.chunk.js",
+    "static/js/3.ff208842.chunk.js.map": "/suza-subedi/money.git/static/js/3.ff208842.chunk.js.map",
+    "index.html": "/suza-subedi/money.git/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/suza-subedi/money.git/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8ccc84b7.chunk.css.map": "/suza-subedi/money.git/static/css/main.8ccc84b7.chunk.css.map",
+    "static/js/2.829cb1cd.chunk.js.LICENSE.txt": "/suza-subedi/money.git/static/js/2.829cb1cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.75c15a17.js",
+    "static/js/runtime-main.aed53396.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.69b60240.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.cef031b3.chunk.js"
+    "static/js/2.829cb1cd.chunk.js",
+    "static/css/main.8ccc84b7.chunk.css",
+    "static/js/main.ae66dabb.chunk.js"
   ]
 }
